@@ -95,14 +95,23 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
+
+
 Profit Prediction:
+
+
 
 
 ![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/63895cc7-a4c8-46fd-bbd2-612047a8bcec)
 
 
 Computecost:
+
+
+
 ![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/058812b6-dd72-436f-852d-958f3dfa6e4e)
+
+
 
 
 ![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/adfd6b58-743e-431f-9d37-75f6074dc4b5)
@@ -111,12 +120,16 @@ Computecost:
 
 Cost Function using Gradient Descent:
 
+
+
 ![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/576898f3-dedb-44ac-bb9a-79f860df8dc0)
 
 
 Profit Prediction:
 
+
 ![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/2e453d55-25dd-4731-a391-184ec19328b3)
+
 
 
 ![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/86e17f1c-cf23-4224-a4f8-7940545eaafb)
