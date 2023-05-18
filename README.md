@@ -8,13 +8,21 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+Step1:
+Import the needed packages.
+
+Step2:
+Read the txt file using read_csv.
+
+Step3:
+Use numpy to find theta,x,y values.
+
+Step4:
+To visualize the data use plt.plot.
 
 ## Program:
 ```
+Program to implement the linear regression using gradient descent.
 NAME:KARTHICK RAJ M 
 REG NO:212221040073
 ```
@@ -87,31 +95,35 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/30f04ea4-b9db-46f0-9ba6-4ee23b4d15db)
+Profit Prediction:
+
+
+![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/63895cc7-a4c8-46fd-bbd2-612047a8bcec)
+
+
+Computecost:
+![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/058812b6-dd72-436f-852d-958f3dfa6e4e)
+
+
+![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/adfd6b58-743e-431f-9d37-75f6074dc4b5)
 
 
 
-![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/90fecdc8-7eb5-4fe0-942c-4248b0251c38)
+Cost Function using Gradient Descent:
+
+![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/576898f3-dedb-44ac-bb9a-79f860df8dc0)
 
 
+Profit Prediction:
+
+![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/2e453d55-25dd-4731-a391-184ec19328b3)
 
 
-![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/272faec1-7e51-4896-879e-f8afb520a41e)
+![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/86e17f1c-cf23-4224-a4f8-7940545eaafb)
 
 
+![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/79ae251a-5ed1-4414-8998-553440d20fe8)
 
-
-![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/fd36e06c-2c10-4ee0-853b-faef352b34be)
-
-
-
-
-
-![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/796f9536-3309-4bce-9a67-203c20b43658)
-
-
-
-![image](https://github.com/KARTHICKRAJM84/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/128134963/14a94a6c-3813-4c9d-8ae8-64db3d2344a7)
 
 
 ## Result:
